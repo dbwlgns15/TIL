@@ -1,5 +1,3 @@
-# My GIT Address: https://github.com/dbwlgns15
-
 ### How To Use GIT
 1. git init
 2. git remote add origin https://github.com/dbwlgns15/TIL.git
