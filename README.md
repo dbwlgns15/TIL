@@ -4,7 +4,7 @@
 1. git init
 2. git remote add origin https://github.com/dbwlgns15/TIL.git
 3. git add filename or git add .
-4. git commit -m 'commet'
+4. git commit -m 'commit'
 5. git push origin master
 
 ### Useful Site Address
