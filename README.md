@@ -6,6 +6,7 @@
 3. git add filename or git add .
 4. git commit -m 'commit'
 5. git push origin master
+6. git remote remove origin
 
 ### Useful Site Address
 1. Multicampus Zoom Link : https://zoom.us/j/94390092284?pwd=NVliODhYd0t6YjhFSldHY2t0UnJQUT09
