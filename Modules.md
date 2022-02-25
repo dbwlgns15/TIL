@@ -85,8 +85,10 @@
 2. from tensorflow.keras.layers import Dense
 3. from keras.layers.core import Dense
 4. from keras.models import Sequential, load_model
-
-
+4. from keras.datasets import reuters
+4. from keras.utills.np_utils import o_categorical
+4. from keras import models
+4. from keras import layers
 
 ##### fbprophet
 
