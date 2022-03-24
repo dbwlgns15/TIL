@@ -1,25 +1,12 @@
 ### How To Use GIT
 1. git init
-
 2. git remote add origin https://github.com/dbwlgns15/TIL.git
-
 3. git add filename or git add .
-
 4. git commit -m 'commit'
-
 5. git push origin master
-
 6. git remote remove origin
 
-   -------------
-
-   1. git clone address
-   2. git pull
-   3. git push
-
 ### Useful Site Address
-
----------------------------------------------
 
 - Multicampus MLP : https://lc.multicampus.com/k-digital2021/#/login
 
@@ -29,9 +16,9 @@
 
 - Multicampus QnA Notion : https://salt-leek-b9c.notion.site/Python-49549e3cd5e24c6a89f179df4e8f57ba
 
-- -----------------------------------------
+  -------------------
 
-  Python WikiDocs : https://wikidocs.net/book/1
+- Python WikiDocs : https://wikidocs.net/book/1
 
 - Matplotlib WikiDocs : https://wikidocs.net/book/5011
 
