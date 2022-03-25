@@ -24,9 +24,9 @@
 
 - Pandas Dataframe WikiDocs : https://wikidocs.net/book/7188
 
-- -----------------------------
+  --------
 
-  GIT Class Notion : https://hphk.notion.site/Git-22-01-12-22-01-14-34c8e006d667493985e8ba4a22000e92
+- GIT Class Notion : https://hphk.notion.site/Git-22-01-12-22-01-14-34c8e006d667493985e8ba4a22000e92
 
 - Job Class Notion : https://hphk.notion.site/22-02-16-3-58b1452e1c384cceb6eead24c6d315ba
 
