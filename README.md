@@ -24,6 +24,8 @@
 
 - Pandas Dataframe WikiDocs : https://wikidocs.net/book/7188
 
+- 딥 러닝을 이용한 자연어 처리 입문: https://wikidocs.net/44249
+
   --------
 
 - GIT Class Notion : https://hphk.notion.site/Git-22-01-12-22-01-14-34c8e006d667493985e8ba4a22000e92
