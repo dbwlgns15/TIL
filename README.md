@@ -24,7 +24,7 @@
 
 - Pandas Dataframe WikiDocs : https://wikidocs.net/book/7188
 
-- 딥 러닝을 이용한 자연어 처리 입문: https://wikidocs.net/44249
+- DL and NLP WikiDocs : https://wikidocs.net/44249
 
   --------
 
