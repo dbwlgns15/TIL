@@ -24,7 +24,7 @@
 
 - Pandas Dataframe WikiDocs : https://wikidocs.net/book/7188
 
-- DL and NLP WikiDocs : https://wikidocs.net/44249
+- NLP WikiDocs : https://wikidocs.net/44249
 
   --------
 
