@@ -1,15 +1,19 @@
 ### How To Use GIT
-​	git init
+'''python
 
-​	git remote add origin https://github.com/dbwlgns15/TIL.git
+git init
 
-​	git add filename or git add .
+git remote add origin https://github.com/dbwlgns15/TIL.git
 
-​	git commit -m 'commit'
+git add filename or git add .
 
-​	git push origin master
+git commit -m 'commit'
 
-​	git remote remove origin
+git push origin master
+
+git remote remove origin
+
+'''
 
 ### Useful Site Address
 
