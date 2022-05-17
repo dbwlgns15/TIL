@@ -1,10 +1,15 @@
 ### How To Use GIT
-1. git init
-2. git remote add origin https://github.com/dbwlgns15/TIL.git
-3. git add filename or git add .
-4. git commit -m 'commit'
-5. git push origin master
-6. git remote remove origin
+​	git init
+
+​	git remote add origin https://github.com/dbwlgns15/TIL.git
+
+​	git add filename or git add .
+
+​	git commit -m 'commit'
+
+​	git push origin master
+
+​	git remote remove origin
 
 ### Useful Site Address
 
