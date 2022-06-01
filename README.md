@@ -21,7 +21,9 @@ git remote remove origin
 
   -------------------
 
-- Python WikiDocs : https://wikidocs.net/book/1
+- 점프 투 파이썬 : https://wikidocs.net/book/1
+
+- 점프 투 파이썬 - 라이브러리 예제 : https://wikidocs.net/book/5445
 
 - Matplotlib WikiDocs : https://wikidocs.net/book/5011
 
